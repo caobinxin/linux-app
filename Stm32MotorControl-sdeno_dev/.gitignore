@@ -1,0 +1,14 @@
+# OUTPUT file
+Debug
+Release
+SI
+Flash
+settings
+*.wsdt
+*.dep
+*.dni
+*.html
+*.png
+*.pdf
+*.css
+*.js
